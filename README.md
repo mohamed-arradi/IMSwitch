@@ -1,7 +1,5 @@
 
-# IMSwitch 
-
-![lMSwitch glance](https://github.com/mohamed-arradi/IMSwitch/blob/version/v1.0.0/imgs/switch-hstacks.png)
+# IMSwitch ![lMSwitch glance](https://github.com/mohamed-arradi/IMSwitch/blob/version/v1.0.0/imgs/switch-hstacks.png)
 
 [![Swift Version](https://img.shields.io/badge/Swift-5.0-orange.svg)](https://swift.org)
 [![SPM Compatible](https://img.shields.io/badge/SPM-compatible-brightgreen.svg)](https://swift.org/package-manager/)
