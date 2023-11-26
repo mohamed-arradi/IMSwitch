@@ -1,4 +1,5 @@
-# IMSwitch
+
+# IMSwitch 
 
 [![Swift Version](https://img.shields.io/badge/Swift-5.0-orange.svg)](https://swift.org)
 [![SPM Compatible](https://img.shields.io/badge/SPM-compatible-brightgreen.svg)](https://swift.org/package-manager/)
@@ -8,6 +9,7 @@ IMSwitch is a SwiftUI toggle component with image options. It provides a visuall
 
 An easy to use, customizable UISwitch which contains images. Build entirely in SwiftUI
 
+![Demo IMSwitch](https://github.com/mohamed-arradi/IMSwitch/blob/version/v1.0.0/imgs/iphone-demo-switch.png)
 ## Features
 
 - Smooth animations
