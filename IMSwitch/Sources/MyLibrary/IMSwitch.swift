@@ -46,7 +46,7 @@ struct IMSwitch: View {
                 Circle()
                     .fill(circleFilledColor)
                     .frame(width: geometry.size.width / 2,
-                           height: geometry.size.height)
+                           height: geometry.size.height * 1.1)
                     .simultaneousGesture(
                         DragGesture()
                             .onEnded { value in
