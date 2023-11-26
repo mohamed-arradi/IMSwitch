@@ -174,7 +174,7 @@ struct IMSwitch_Previews: PreviewProvider {
                     .frame(width: 200, height: 60)
                     .environment(\.layoutDirection, .leftToRight)
                 }
-            }.previewDisplayName("Default preview 2")
+            }.previewDisplayName("Default preview 1")
         }
         Group {
             VStack(spacing: 50) {
