@@ -1,9 +1,12 @@
 
-# IMSwitch ![lMSwitch glance](https://github.com/mohamed-arradi/IMSwitch/blob/version/v1.0.0/imgs/switch-hstacks.png)
+# IMSwitch 
 
 [![Swift Version](https://img.shields.io/badge/Swift-5.0-orange.svg)](https://swift.org)
 [![SPM Compatible](https://img.shields.io/badge/SPM-compatible-brightgreen.svg)](https://swift.org/package-manager/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
+
+![lMSwitch glance](https://github.com/mohamed-arradi/IMSwitch/blob/version/v1.0.0/imgs/switch-hstacks.png)
 
 IMSwitch is a SwiftUI toggle component with image options. It provides a visually appealing and customizable way to toggle between two options.
 
